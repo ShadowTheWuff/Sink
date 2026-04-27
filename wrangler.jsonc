@@ -12,12 +12,6 @@
   "compatibility_flags": [
     "nodejs_compat"
   ],
-  "routes": [
-    {
-      "pattern": "link.shadowdewuff.gay",
-      "custom_domain": true
-    }
-  ],
   "keep_vars": true,
   "upload_source_maps": true,
   "observability": {
