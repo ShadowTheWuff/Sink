@@ -14,7 +14,7 @@
   ],
   "routes": [
     {
-      "pattern": "link.shadowdewuff.gay*",
+      "pattern": "link.shadowdewuff.gay",
       "custom_domain": true
     }
   ],
