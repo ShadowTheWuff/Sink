@@ -7,7 +7,7 @@
     "directory": ".output/public",
     "html_handling": "drop-trailing-slash"
   },
-  "compatibility_date": "2025-05-08",
+  "compatibility_date": "2026-04-27",
   "compatibility_flags": [
     "nodejs_compat"
   ],
@@ -21,6 +21,10 @@
       "enabled": true
     }
   },
+    "vars": {
+    "NUXT_SITE_TOKEN": "xoMXt//S0kUSEdEhVXOUsA==",
+    "NUXT_CF_ACCOUNT_ID": "1879691604f4e3d2da1cb8b6bcb4ac20"  
+},
   "placement": {
     // Use one of the following options (mutually exclusive):
     "mode": "smart" // Cloudflare automatically places your Worker closest to the upstream with the most requests
